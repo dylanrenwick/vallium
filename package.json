@@ -1,0 +1,22 @@
+{
+  "name": "vallium",
+  "version": "0.1.0",
+  "description": "Clean and easy to read logging module",
+  "main": "log.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunnerwolf/vallium.git"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": "SkidsDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunnerwolf/vallium/issues"
+  },
+  "homepage": "https://github.com/gunnerwolf/vallium#readme"
+}
